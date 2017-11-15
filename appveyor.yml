@@ -1,4 +1,4 @@
-os: Visual Studio 2012
+os: Visual Studio 2013
 
 branches:
   only:
