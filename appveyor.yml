@@ -1,4 +1,4 @@
-os: Visual Studio 2013
+os: Visual Studio 2012 Update 5
 
 branches:
   only:
